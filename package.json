@@ -4,7 +4,9 @@
   "description": "Clone https://www.tabnews.com.br",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
   },
   "author": "Bruno Túlio",
   "license": "MIT",
